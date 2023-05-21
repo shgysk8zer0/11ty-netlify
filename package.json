@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/11ty-netlify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "node": ">=18.13.0"
   },
@@ -53,11 +53,13 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@rollup/plugin-terser": "^0.4.1",
+    "@shgysk8zer0/11ty-filters": "^0.0.1",
     "@shgysk8zer0/rollup-import": "^1.0.0",
     "cssnano": "^6.0.0",
     "cssnano-preset-default": "^6.0.0",
     "eslint": "^8.0.1",
     "eslint-plugin-async-await": "0.0.0",
+    "eslint-plugin-frontmatter": "^0.0.8",
     "htmlhint": "^1.1.4",
     "js-yaml": "^4.1.0",
     "netlify-cli": "^15.0.0",

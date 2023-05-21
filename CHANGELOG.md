@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- markdownlint-disable -->
 ## [Unreleased]
 
+## [v1.0.1] - 2023-05-21
+
+### Added
+- `eslint-plugin-frontmatter`
+- `@shgysk8zer0/11ty-filters`
+
 ## [v1.0.0] - 2023-15-20
 
 ### Added
