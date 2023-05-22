@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/11ty-netlify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": ">=18.13.0"
   },
@@ -53,7 +53,7 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@rollup/plugin-terser": "^0.4.1",
-    "@shgysk8zer0/11ty-filters": "^0.0.1",
+    "@shgysk8zer0/11ty-filters": "^0.0.2",
     "@shgysk8zer0/rollup-import": "^1.0.0",
     "cssnano": "^6.0.0",
     "cssnano-preset-default": "^6.0.0",
