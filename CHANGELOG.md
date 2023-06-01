@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- markdownlint-disable -->
 ## [Unreleased]
 
+## [v1.0.4] - 2023-06-01
+
+### Fixed
+- Add missing CommonJS version of `markdown-it` & `highlight.js` config
+
 ## [v1.0.3] - 2023-06-01
 
 ### Added

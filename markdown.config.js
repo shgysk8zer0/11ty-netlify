@@ -7,5 +7,4 @@ export default getConfig('./markdown.js', {
 	external: ['markdown-it', 'highlight.js'],
 	plugins: [],
 	sourcemap: false,
-	globals: {},
 });
