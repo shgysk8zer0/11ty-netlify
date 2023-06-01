@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/11ty-netlify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "node": ">=18.13.0"
   },
@@ -19,6 +19,7 @@
   "scripts": {
     "test": "npm run lint && npm run build",
     "preversion": "npm test",
+    "prepare": "npm run build:markdown",
     "create:lock": "npm i --package-lock-only",
     "version:bump": "npm run version:bump:patch",
     "version:bump:patch": "npm version --no-git-tag-version patch",
