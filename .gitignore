@@ -1,7 +1,7 @@
 # Minified / generated files
-*.min.js
-*.min.css
-*.map*
+*.min.*
+*.cjs
+*.map
 
 # Logs
 logs
