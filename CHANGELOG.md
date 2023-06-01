@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- markdownlint-disable -->
 ## [Unreleased]
 
+## [v1.0.3] - 2023-06-01
+
+### Added
+- Add util functions for PostCSS & Rollup
+- Add `markddown-it` & `highlight.js` config for 11ty
+
+### Fixed
+- Update GitHub Release Action with necessary permissions
+
 ## [v1.0.2] - 2023-05-21
 
 ### Fixed

@@ -1,9 +1,7 @@
 node_modules/
 css/
 js/
-importmap.json
-rollup.config.js
-postcss.config.js
+*.config.js
 .nvmrc
 index.js
 .github/
