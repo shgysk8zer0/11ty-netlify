@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- markdownlint-disable -->
 ## [Unreleased]
 
+## [v1.0.5] - 2023-06-10
+
+### Added
+- Add `@shgysk8zer0/js-utils` and `@shgysk8zer0/css-utils`
+
+### Removed
+- Uninstall all `eslint`, `stylelint`, `rollup`, and `postcss` with plugins
+- Remove `postcss/*` and `rollup/*` modules
+
 ## [v1.0.4] - 2023-06-01
 
 ### Fixed
