@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/11ty-netlify",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "node": ">=18.13.0"
   },
@@ -60,11 +60,12 @@
   "homepage": "https://github.com/shgysk8zer0/11ty-netlify#readme",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@shgysk8zer0/11ty-filters": "^0.0.2",
+    "@shgysk8zer0/11ty-filters": "^0.0.4",
     "@shgysk8zer0/css-utils": "^1.0.0",
     "@shgysk8zer0/importmap": "^1.0.2",
     "@shgysk8zer0/js-utils": "^1.0.0",
-    "@shgysk8zer0/rollup-import": "^1.1.0",
+    "@shgysk8zer0/npm-utils": "^1.0.5",
+    "@shgysk8zer0/rollup-import": "^1.1.1",
     "eslint-plugin-frontmatter": "^0.0.8",
     "highlight.js": "^11.8.0",
     "htmlhint": "^1.1.4",
