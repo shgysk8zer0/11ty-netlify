@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- markdownlint-disable -->
 ## [Unreleased]
 
+## [v1.0.8] - 2023-06-14
+
+### Removed
+- Uninstall `svg-sprite-generator`
+
+### Added
+- Install `@shgysk8zer0/svg-use-symbols`
+
 ## [v1.0.7] - 2023-06-10
 
 ### Changed
