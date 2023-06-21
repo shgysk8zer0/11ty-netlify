@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/11ty-netlify",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "engines": {
     "node": ">=18.13.0"
   },
@@ -61,7 +61,7 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@shgysk8zer0/11ty-filters": "^0.0.6",
-    "@shgysk8zer0/css-utils": "^1.0.0",
+    "@shgysk8zer0/css-utils": "^1.1.1",
     "@shgysk8zer0/importmap": "^1.0.2",
     "@shgysk8zer0/js-utils": "^1.0.0",
     "@shgysk8zer0/npm-utils": "^1.0.5",
