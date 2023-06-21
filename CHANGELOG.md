@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- markdownlint-disable -->
 ## [Unreleased]
 
+## [v1.0.9] - 2023-06-20
+
+### Changed
+- Update to latest `@shgysk8zer0/css-utils` with `@shgysk8zer0/postcss-import`
+
 ## [v1.0.8] - 2023-06-14
 
 ### Removed
