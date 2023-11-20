@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/11ty-netlify",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "engines": {
     "node": ">=18.13.0"
   },
