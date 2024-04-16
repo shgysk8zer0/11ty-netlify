@@ -4,6 +4,8 @@ js/
 *.config.js
 .nvmrc
 index.js
+icons.json
+icons.svg
 .github/
 .stylelintrc.json
 .stylelintignore

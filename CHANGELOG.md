@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- markdownlint-disable -->
 ## [Unreleased]
 
+## [v1.1.18] - 2024-04-16
+
+### Added
+- Add test for `svg-use-symbols`
+
+### Fixed
+- Update `@shgysk8zer0/svg-use-symbols` to fix missing consts
+
 ## [v1.1.7] - 2024-04-08
 
 ###  Fixed
