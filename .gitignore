@@ -2,6 +2,7 @@
 *.min.*
 *.cjs
 *.map
+icons.svg
 
 # Logs
 logs
