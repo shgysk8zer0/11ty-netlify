@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/11ty-netlify",
-  "version": "1.1.23",
+  "version": "1.1.24",
   "engines": {
     "node": ">=18.13.0"
   },
@@ -73,5 +73,8 @@
     "js-yaml": "^4.1.0",
     "markdown-it": "^14.0.0",
     "netlify-cli": "^17.0.0"
+  },
+  "devDependencies": {
+    "@shgysk8zer0/eslint-config": "^1.0.1"
   }
 }
