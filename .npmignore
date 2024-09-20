@@ -2,6 +2,7 @@ node_modules/
 css/
 js/
 *.config.js
+*.test.js
 .nvmrc
 index.js
 icons.json
