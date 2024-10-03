@@ -59,7 +59,7 @@
   },
   "homepage": "https://github.com/shgysk8zer0/11ty-netlify#readme",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "@shgysk8zer0/11ty-filters": "^0.1.0",
     "@shgysk8zer0/css-utils": "^1.2.0",
     "@shgysk8zer0/importmap": "^1.2.6",
