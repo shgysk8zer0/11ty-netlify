@@ -72,7 +72,7 @@
     "htmlhint": "^1.1.4",
     "js-yaml": "^4.1.0",
     "markdown-it": "^14.0.0",
-    "netlify-cli": "^18.0.1"
+    "netlify-cli": "^19.0.0"
   },
   "devDependencies": {
     "@shgysk8zer0/eslint-config": "^1.0.1"
