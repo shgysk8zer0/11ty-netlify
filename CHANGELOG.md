@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.1.27] - 2025-04-02
+
+### Changed
+- Update `@shgysk8zer0/11ty-filters`
+
 ## [v1.1.26] - 2025-04-02
 
 ### Changed
