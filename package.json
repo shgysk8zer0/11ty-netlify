@@ -59,10 +59,8 @@
   },
   "homepage": "https://github.com/shgysk8zer0/11ty-netlify#readme",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.2",
     "@shgysk8zer0/11ty-filters": "^0.1.2",
     "@11ty/eleventy": "^3.1.2",
-    "@shgysk8zer0/11ty-filters": "^0.1.2",
     "@shgysk8zer0/css-utils": "^1.2.0",
     "@shgysk8zer0/importmap": "^1.5.3",
     "@shgysk8zer0/js-utils": "^1.0.2",
@@ -73,10 +71,7 @@
     "highlight.js": "^11.11.1",
     "htmlhint": "^1.8.0",
     "js-yaml": "^4.1.1",
-    "htmlhint": "^1.8.0",
-    "js-yaml": "^4.1.1",
     "markdown-it": "^14.1.0",
-    "netlify-cli": "^23.12.3"
     "netlify-cli": "^23.12.3"
   },
   "devDependencies": {
