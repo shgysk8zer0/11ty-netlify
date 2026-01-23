@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.1.29] - 2026-01-23
+
+### Changed
+- Update `@shgysk8zer0/rollup-import` with support for Import Attributes
+
 ## [v1.1.28] - 2025-12-04
 
 ### Changed
