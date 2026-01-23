@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.1.30] - 2026-01-23
+
+### Changed
+- Support both `attributes` and `assertions` for different node/rollup versions in `@shgysk8zer0/rollup-import`
+
 ## [v1.1.29] - 2026-01-23
 
 ### Changed
