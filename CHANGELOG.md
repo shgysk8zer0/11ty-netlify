@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.1.32] - 2026-03-10
+
+### Added
+- Add `@shgysk8zer0/stylelint-config`
+
+### Changed
+- Update various config files
+
 ### [v1.1.31] - 2026-03-04
 
 ### Changed
