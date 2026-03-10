@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-env node */
 
 import MarkdownIt from 'markdown-it';
 import hljs from 'highlight.js';
