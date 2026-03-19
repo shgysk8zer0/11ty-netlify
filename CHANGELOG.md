@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.1.33]
+
+### Changed
+- Update dependencies
+- Update ESLint to disallow invisible characters
+
 ## [v1.1.32] - 2026-03-10
 
 ### Added
