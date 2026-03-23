@@ -1,6 +1,6 @@
 {
   "name": "@shgysk8zer0/11ty-netlify",
-  "version": "1.1.33",
+  "version": "1.1.34",
   "engines": {
     "node": ">=18.13.0"
   },
@@ -63,9 +63,9 @@
     "@11ty/eleventy": "^3.1.5",
     "@shgysk8zer0/css-utils": "^1.2.1",
     "@shgysk8zer0/eslint-config": "^1.0.9",
-    "@shgysk8zer0/importmap": "^1.8.7",
+    "@shgysk8zer0/importmap": "^1.8.8",
     "@shgysk8zer0/js-utils": "^1.0.6",
-    "@shgysk8zer0/npm-utils": "^1.1.4",
+    "@shgysk8zer0/npm-utils": "1.1.6",
     "@shgysk8zer0/rollup-import": "^2.0.3",
     "@shgysk8zer0/stylelint-config": "^1.0.1",
     "@shgysk8zer0/svg-use-symbols": "^1.1.4",
@@ -74,6 +74,6 @@
     "htmlhint": "^1.9.2",
     "js-yaml": "^4.1.1",
     "markdown-it": "^14.1.1",
-    "netlify-cli": "^24.3.0"
+    "netlify-cli": "^24.4.1"
   }
 }
