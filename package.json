@@ -74,6 +74,6 @@
     "htmlhint": "^1.9.2",
     "js-yaml": "^4.1.1",
     "markdown-it": "^14.1.1",
-    "netlify-cli": "^24.10.0"
+    "netlify-cli": "^25.1.1"
   }
 }
