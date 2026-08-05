@@ -73,7 +73,7 @@
     "highlight.js": "^11.11.1",
     "htmlhint": "^1.9.2",
     "js-yaml": "^5.1.0",
-    "markdown-it": "^14.2.0",
+    "markdown-it": "^15.0.0",
     "netlify-cli": "^27.0.1"
   },
   "allowScripts": {
